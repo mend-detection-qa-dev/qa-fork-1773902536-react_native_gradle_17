@@ -5,7 +5,7 @@
     "projectToken": "",
     "baseBranches": [],
     "versioning": {
-       "java": "11"
+       "java": "17"
   }},
   "scanSettingsSAST": {
     "enableScan": true,
