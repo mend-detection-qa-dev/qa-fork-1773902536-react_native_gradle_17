@@ -699,10 +699,6 @@
                 },
                 {
                     "operator": "eq",
-                    "value": "detected project's package managers: gradle, npm"
-                },
-                {
-                    "operator": "eq",
                     "value": "Skipping modules/serve-module/android - React Native submodule without gradle wrapper"
                 },
                 {
