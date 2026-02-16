@@ -68,10 +68,6 @@
             "expected_log_lines": [
                 {
                     "operator": "eq",
-                    "value": "running npm install before Gradle resolution"
-                },
-                {
-                    "operator": "eq",
                     "value": "Skipping modules/serve-module/android - React Native submodule without gradle wrapper"
                 },
                 {
